@@ -1,19 +1,19 @@
 {
-  "name": "js-in-css-rt",
-  "version": "0.0.1",
-  "description": "\"cursed css-in-js runtime\"",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/walaura/css-in-js-rt.git"
-  },
-  "author": "walaura",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/walaura/css-in-js-rt/issues"
-  },
-  "homepage": "https://github.com/walaura/css-in-js-rt#readme"
+	"name": "js-in-css-rt",
+	"version": "0.0.1",
+	"description": "\"cursed css-in-js runtime\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/walaura/css-in-js-rt.git"
+	},
+	"author": "walaura",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/walaura/css-in-js-rt/issues"
+	},
+	"homepage": "https://github.com/walaura/css-in-js-rt#readme"
 }
