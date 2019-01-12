@@ -1,0 +1,17 @@
+<html>
+	<style>
+		.wrapper {
+			border: 3px solid red;
+			color: white;
+			background: blue;
+			--eval: 'this.innerText = `©${(new Date).getFullYear()} My Web Site`';
+		}
+	</style>
+	<body>
+		<div class="wrapper"></div>
+	</body>
+	<script type="module">
+		import { runtime } from './index.js';
+		runtime.init();
+	</script>
+</html>
